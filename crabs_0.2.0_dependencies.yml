@@ -1,0 +1,10 @@
+channels:
+- bioconda
+- conda-forge
+- defaults
+dependencies:
+- wget =1.21.3
+- muscle =3.8.31
+- cutadapt >=3.4
+- vsearch >=2.13.3
+- pip >=23.2.1
