@@ -8,7 +8,6 @@ setup(name='crabs',
       packages=['crabs'],
       install_requires=[
           'biopython >= 1.78',
-          'argparse',
           'tqdm',
           'numpy',
           'pandas >=0.23.4',
