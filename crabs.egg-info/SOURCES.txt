@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+crabs/__init__.py
+crabs/__version__.py
+crabs/crabs.py
+crabs/module_assign_tax.py
+crabs/module_db_cleanup.py
+crabs/module_db_download.py
+crabs/module_visualizations.py
+crabs.egg-info/PKG-INFO
+crabs.egg-info/SOURCES.txt
+crabs.egg-info/dependency_links.txt
+crabs.egg-info/entry_points.txt
+crabs.egg-info/requires.txt
+crabs.egg-info/top_level.txt

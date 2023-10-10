@@ -7,7 +7,7 @@ setup(name='crabs',
 	  version='0.2.0',
       packages=['crabs'],
       install_requires=[
-          'biopython >= 1.78',
+          'biopython >= 1.81',
           'tqdm',
           'numpy',
           'pandas >=0.23.4',
